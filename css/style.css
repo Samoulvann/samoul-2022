@@ -92,7 +92,7 @@ nav ul li{
 }
 .card h1{
     font-weight: bold;
-    color: white;
+    color: black;
     text-transform: uppercase;
     text-align: center;
 }
@@ -115,3 +115,9 @@ group{
 
 
 /* samjoull */
+footer{
+    background: cadetblue;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+}

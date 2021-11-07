@@ -70,7 +70,7 @@ nav ul li{
     justify-content: center;
    
 }
-p{
+.p-1{
     width: 65%;
     padding: 30px;
     line-height: 1.5em;
@@ -81,7 +81,6 @@ p{
 }
 h4{
     margin-left: 60px;
-    ;
 }
 button{
     width: 150px;
@@ -89,7 +88,7 @@ button{
     color: white;
     padding: 5px;
     margin-left: 30%;
-
+}
 
 
 
@@ -99,12 +98,12 @@ button{
 
 
 /* samoulvann============================ */
-.section-1{
+
+.sc-1{
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
-
 .card{
     color: white;
     width: 23%;
@@ -116,7 +115,7 @@ button{
 }
 .card h1{
     font-weight: bold;
-    color: black;
+    color: white;
     text-transform: uppercase;
     text-align: center;
 }
@@ -129,19 +128,14 @@ button{
     width: 30%;
 }
 
-group{
-    display: flex;
-    justify-content: space-evenly;
-}
-
 
 
 
 
 /* samjoull */
 footer{
-    background: cadetblue;
-    padding: 10px;
-    margin-top: 10px;
+    margin: 30px;
+    background: cornflowerblue;
+    padding: 20px;
     text-align: center;
 }

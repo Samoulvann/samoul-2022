@@ -1,0 +1,77 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+/* <===============mey mey =====================> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* chan sok==================== */
+
+
+
+
+
+
+
+
+
+
+
+/* samoulvann============================ */
+.section-1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card{
+    color: white;
+    width: 23%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 3px solid #eeff41 ;
+    margin-top: 10px;
+    
+}
+.card h1{
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.img{
+    margin-top: 11px;
+    text-align: center;
+}
+.img img{
+    width: 30%;
+}
+
+group{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+/* samjoull */

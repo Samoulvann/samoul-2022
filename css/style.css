@@ -25,6 +25,30 @@ body{
 /* chan sok==================== */
 
 
+.text{
+    display: flex;
+    justify-content: center;
+   
+}
+p{
+    width: 65%;
+    padding: 30px;
+    line-height: 1.5em;
+}
+.picture{
+    width: 80%;
+    height: 40vh;
+}
+h4{
+    margin-left: 60px;
+    ;
+}
+button{
+    width: 150px;
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    margin-left: 30%;
 
 
 

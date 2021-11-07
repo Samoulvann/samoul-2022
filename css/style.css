@@ -6,7 +6,47 @@ body{
 }
 
 /* <===============mey mey =====================> */
-
+*{
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-decoration:none;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid gray;
+    border-bottom: 1px  #000;
+    margin: 2rem;
+}
+ul {
+    display: flex;
+    margin: 20px;
+    color: black;
+}
+nav ul li{
+    list-style: none;
+    margin: 1.5rem;
+}
+.bar-right{
+    margin-top: 3rem;
+    margin-left: 5rem;
+}
+.active,
+.icon{
+    background: plum;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+.fa-search{
+    color: white;
+    width: 50%;
+    padding: 10px;
+}
 
 
 
@@ -76,7 +116,7 @@ button{
 }
 .card h1{
     font-weight: bold;
-    color: white;
+    color: black;
     text-transform: uppercase;
     text-align: center;
 }
@@ -99,3 +139,9 @@ group{
 
 
 /* samjoull */
+footer{
+    background: cadetblue;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
